@@ -1,16 +1,17 @@
-## Hi there 👋
+## 🧰 Herramientas y Tecnologías
 
-<!--
-**ejaime7248/ejaime7248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚙️ **Power BI** – Visualización de datos y dashboards interactivos
+- 🐘 **PostgreSQL** – Modelado de datos, consultas y optimización
+- 📊 **Excel avanzado** – Análisis financiero y modelos
 
-Here are some ideas to get you started:
+- ## 📁 Estructura del Repositorio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Carpeta | Descripción |
+|--------|-------------|
+| `data/` | Datasets públicos o simulados usados en proyectos |
+| `notebooks/` | Scripts SQL y notebooks de análisis |
+| `reports/` | Informes en PDF o Markdown |
+| `dashboards/` | Archivos .pbix y capturas de dashboards |
+| `projects/` | Proyectos completos con análisis y visualizaciones |
+
+---
