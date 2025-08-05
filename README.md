@@ -1,3 +1,5 @@
+# 📊 Portafolio de Análisis Económico y Financiero Bienvenido a mi repositorio principal. Soy Eberto, economista con experiencia en el sector financiero y actualmente me estoy especializando en análisis de datos con **Power BI** y **PostgreSQL**. Este repositorio incluye proyectos, análisis y paneles de control enfocados en temas económicos y financieros.
+
 ## 🧰 Herramientas y Tecnologías
 
 - ⚙️ **Power BI** – Visualización de datos y dashboards interactivos
